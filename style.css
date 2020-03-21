@@ -1,26 +1,28 @@
 
+
 body{
-  background-color: #00faac;
+  background-color: #61d4b3;
   text-align: center;
 }
 .header{
   width: 100%;
   height: 30px;
-  background-color:#00faac;
+  background-color:#61d4b3;
   margin:0 auto;
 }
 .trademark{
   font-family:Caveat,cursive;
   float:left;
-  color: #80ac7b;
+  color: #192965;
   position:absolute;
   right:10px;
 
 }
 .resume{
-  font-family:  Merriweather,sans-serif;
+  font-family: Caveat,sans-serif;
+  font-size: 2rem;
   text-decoration: none;
-  color: #80ac7b;
+  color: #192965;
   position:absolute;
   left:50px;
 }
@@ -48,14 +50,14 @@ body{
 }
 
 h1{
-  color: #80ac7b;
+  color: #192965;
   font-family: Sacramento;
   margin-top:120px;
   left:300px;
   font-size:562.5%;
 }
 .p{
-  color: #0c907d;
+  color: #192965;
   position: absolute;
   top:270px;
   right: 300px;
@@ -63,7 +65,7 @@ h1{
   font-family: Merriweather;
 }
 .bottom-container{
-  background-color:#00faac;
+  background-color:#61d4b3;
   text-align: center;
   position:relative;
   width: 60%;
@@ -71,7 +73,7 @@ h1{
   display: inline-block;
 }
 .skill-row1{
-  background-color:#00faac;
+  background-color:#61d4b3;
   text-align: center;
   position:relative;
   width: 60%;
@@ -79,7 +81,7 @@ h1{
   display: inline-block;
 }
 .skill-row2{
-  background-color:#00faac;
+  background-color:#61d4b3;
   text-align: center;
   position:relative;
   width: 60%;
@@ -96,10 +98,10 @@ h1{
   position:relative;
   font-size: 2em;
   font-family: Merriweather;
-  color: #0c907d;
+  color: #192965;
 }
 .headings{
-  color: #80ac7b;
+  color: #192965;
   font-family: Merriweather;
   font-size:50px;
 
@@ -107,7 +109,7 @@ h1{
 .description{
   font-size: 2em;
   font-family: Merriweather;
-  color: #0c907d;
+  color: #192965;
   text-align: left;
 }
 .webimg{
@@ -115,7 +117,7 @@ h1{
   width: 200px;
 }
 h3{
-  color: #0d627a;
+  color: #192965;
   position: relative;
   font-family: Merriweather;
   left:20px;
@@ -123,7 +125,7 @@ h3{
   text-align: left;
 }
 .webdes{
-  color: #0d627a;
+  color: #192965;
   font-family: Merriweather;
   font-size:20px;
   position: relative;
@@ -132,7 +134,7 @@ h3{
   text-align: left;
 }
 .h3{
-  color: #0d627a;
+  color: #192965;
   position: relative;
   font-family: Merriweather;
   left:20px;
@@ -145,7 +147,7 @@ h3{
 }
 
 .funny{
-  color: #0d627a;
+  color: #192965;
   font-family: Merriweather;
   font-size:20px;
   position: relative;
@@ -153,14 +155,13 @@ h3{
   left:20px;
   text-align:left;
   bottom: 20px;
-margin-bottom:20px;
 }
 hr{
   width:50px;
   border-top : 7px dotted #0d627a;
 }
 .funny_stuffs{
-  background-color:#00faac;
+  background-color:#61d4b3;
   text-align: center;
   position:relative;
   width: 60%;
@@ -169,19 +170,19 @@ hr{
 }
 h2{
   top: 30px;
-  color: #0d627a;
+  color: #192965;
   position: relative;
   font-family: Merriweather;
 }
 .lovenonveg{
-  color: #0d627a;
+  color: #192965;
   font-family: Merriweather;
   font-size:15px;
   position: relative;
   padding-top: 25px;
 }
 .lovenonveg2{
-  color: #0d627a;
+  color: #192965;
   width: 40%;
   font-family: Merriweather;
   font-size:15px;
@@ -196,7 +197,7 @@ h2{
 }
 .footerp{
   font-size: 40px;
-  color: #0d627a;
+  color: #192965;
   position: relative;
   font-family: Merriweather,sans-serif;
 }
@@ -206,7 +207,7 @@ img{
 .footer1{
   width: 100%;
   height:25px;
-  background-color: #a3f7bf;
+  background-color: #61d4b3;
   text-align: center;
 }
 .copyright{
